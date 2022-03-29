@@ -1,4 +1,4 @@
-pwd
+
 docker stop demo_container
 docker rm demo_container
 docker build --no-cache . -t demo_image
